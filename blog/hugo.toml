@@ -1,7 +1,6 @@
-baseURL = "https://larraurimarti2020-cell.github.io/kitten-agent-blog"
+baseURL = "https://larraurimarti2020-cell.github.io/squad/"
 languageCode = "es"
 title = "Kitten Agent Blog"
-theme = ""
 
 [pagination]
   pagerSize = 10
